@@ -1,0 +1,6 @@
+# data never goes in git
+data/
+*.csv
+*.parquet
+*.zip
+!reference/*.csv
